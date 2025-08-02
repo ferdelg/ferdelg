@@ -21,7 +21,7 @@ I'm especially interested in ethical AI, open data, and using technology to solv
 ### 📡 Street Light Remote Lab Platform  
 > Built 8 backend features using Django REST Framework to power a remote lab simulation; implemented grid system and 6 REST API endpoints to automate robot data collection for 200+ users.  
 **Tech:** Django REST, Docker, MQTT, GitHub  
-[🔗 Repo Link](https://github.com/EU-BEGP/street-light-remote-lab)
+[🔗 Remote Lab Repo Link](https://github.com/EU-BEGP/street-light-remote-lab)
 
 ### 🎶 Interactive Spotify Data Program  
 > Python tool that analyzes song data from CSV files to generate personalized playlists based on a recommendation algorithm and user preferences.  
@@ -30,7 +30,7 @@ I'm especially interested in ethical AI, open data, and using technology to solv
 ### 🔍 StreamSearch  
 > Full-stack web app that helps users find where to stream movies and TV shows. Flask backend, external API integration, and dynamic HTML/CSS frontend.  
 **Tech:** Flask, HTML, CSS, Python  
-[🔗 Repo Link](https://github.com/CS257-S25/team-project-f)
+[🔗 StreamSearch Repo Link](https://github.com/CS257-S25/team-project-f)
 
 ---
 
