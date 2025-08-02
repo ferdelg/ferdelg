@@ -30,7 +30,7 @@ I'm especially interested in ethical AI, open data, and using technology to solv
 ### 🔍 StreamSearch  
 > Full-stack web app that helps users find where to stream movies and TV shows. Flask backend, external API integration, and dynamic HTML/CSS frontend.  
 **Tech:** Flask, HTML, CSS, Python  
-[🔗 Repo Link][(https://github.com/CS257-S25/team-project-f)]
+[🔗 Repo Link](https://github.com/CS257-S25/team-project-f)
 
 ---
 
